@@ -1,0 +1,30 @@
+{
+    "quizzes": [
+        {
+            "question": "Python의 창시자는?",
+            "choices": ["Guido van Rossum", "Linus Torvalds", "Bjarne Stroustrup", "James Gosling"],
+            "answer": 1
+        },
+        {
+            "question": "Python에서 리스트의 인덱스는 몇부터 시작할까?",
+            "choices": ["0", "1", "-1", "2"],
+            "answer": 1
+        },
+        {
+            "question": "다음 중 Python의 논리형 타입은?",
+            "choices": ["int", "str", "bool", "list"],
+            "answer": 3
+        },
+        {
+            "question": "Python에서 조건문을 시작하는 키워드는?",
+            "choices": ["if", "for", "while", "def"],
+            "answer": 1
+        },
+        {
+            "question": "Python에서 파일을 열 때 사용하는 함수는?",
+            "choices": ["open()", "read()", "write()", "input()"],
+            "answer": 1
+        }
+    ],
+    "best_score": 0
+}
