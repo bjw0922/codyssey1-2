@@ -3,11 +3,13 @@ Git clone practice
 Purpose
 - Satisfy evaluation criterion 7 by performing an actual clone from the remote repository.
 
-Execution target
-- Remote repository: https://github.com/bjw0922/codyssey1-2.git
+Executed command
+- git clone https://github.com/bjw0922/codyssey1-2.git /Users/bwldnjsdl86588658/Downloads/codyssey1-2-clone-practice
 
-Record fields
-- Clone directory
-- Command used
-- Result summary
-- Verification method
+Result summary
+- Clone completed successfully.
+- Cloned repository HEAD after clone: 64c800e
+- Clone target directory: /Users/bwldnjsdl86588658/Downloads/codyssey1-2-clone-practice
+
+Verification
+- Running git rev-parse --short HEAD in the cloned directory returned 64c800e.
