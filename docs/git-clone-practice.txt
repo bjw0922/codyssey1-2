@@ -1,0 +1,13 @@
+Git clone practice
+
+Purpose
+- Satisfy evaluation criterion 7 by performing an actual clone from the remote repository.
+
+Execution target
+- Remote repository: https://github.com/bjw0922/codyssey1-2.git
+
+Record fields
+- Clone directory
+- Command used
+- Result summary
+- Verification method
