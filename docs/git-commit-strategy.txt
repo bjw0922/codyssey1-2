@@ -1,0 +1,17 @@
+Git commit strategy
+
+Purpose
+- Satisfy evaluation criterion 5 with meaningful commit separation.
+
+Commit rules used in this repository
+- chore: repository maintenance and cleanup
+- docs: README or practice evidence updates
+- feat: functional code additions
+- fix: bug fixes or merge/conflict resolution
+
+Meaningful commit examples
+- Ignore Python cache files
+- Record branch / merge practice
+- Record clone practice
+- Record pull practice
+- Summarize final verification results

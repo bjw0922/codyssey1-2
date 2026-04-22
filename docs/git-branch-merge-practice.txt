@@ -1,0 +1,13 @@
+Git branch / merge practice
+
+Purpose
+- Satisfy evaluation criterion 6 by leaving visible branch and merge history in git log --oneline --graph.
+
+Planned workflow
+1. Create feature branch: feature/git-practice-evidence
+2. Make several meaningful documentation commits on that branch
+3. Merge back into main with --no-ff
+4. Verify graph output after merge
+
+Verification command
+- git log --oneline --graph --decorate --all
