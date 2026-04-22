@@ -3,8 +3,13 @@ Git pull practice
 Purpose
 - Satisfy evaluation criterion 7 by performing an actual pull in a cloned repository.
 
-Execution plan
-1. Clone the remote repository to a separate directory
-2. Push one more commit from the main working repository
-3. Run git pull origin main in the cloned repository
-4. Record before/after commit hashes
+Current status
+- Clone was completed in: /Users/bwldnjsdl86588658/Downloads/codyssey1-2-clone-practice
+- Pull target branch: main
+
+Pull command to run in clone directory
+- git pull origin main
+
+Verification points
+- Compare commit hash before pull and after pull
+- Check that local clone main matches origin/main after pull
