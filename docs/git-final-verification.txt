@@ -1,5 +1,14 @@
 Final verification checklist
 
-- Commit count target (>= 10): pending final check
-- Branch/merge graph evidence: pending final check
-- Clone/Pull execution evidence: pending final check
+- Commit count target (>= 10): PASS
+	- Command: git rev-list --count HEAD
+	- Result: 13
+
+- Branch/merge graph evidence: PASS
+	- Command: git log --oneline --graph --decorate --all
+	- Result: merge commit and feature branch commits are visible
+
+- Clone/Pull execution evidence: PASS
+	- Clone directory: /Users/bwldnjsdl86588658/Downloads/codyssey1-2-clone-practice
+	- Pull before hash: 64c800e
+	- Pull after hash: dabf5be
