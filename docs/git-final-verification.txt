@@ -1,0 +1,5 @@
+Final verification checklist
+
+- Commit count target (>= 10): pending final check
+- Branch/merge graph evidence: pending final check
+- Clone/Pull execution evidence: pending final check
